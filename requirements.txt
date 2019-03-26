@@ -1,4 +1,0 @@
-bqplot
-ipywidgets
-numpy
-pandas
